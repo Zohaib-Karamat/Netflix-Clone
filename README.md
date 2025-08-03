@@ -60,7 +60,7 @@ open index.html   # macOS
 ```bash
 # If you have VS Code with Live Server extension
 # Right-click on index.html and select "Open with Live Server"
-
+```
 
 ## 📁 Project Structure
 
