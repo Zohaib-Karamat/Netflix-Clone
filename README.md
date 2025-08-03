@@ -1,6 +1,6 @@
 # 🎬 Netflix Clone - Responsive Landing Page
 
-![Netflix Clone](https://netflix-clone-liard-chi.vercel.app)
+![Netflix Clone](https://img.shields.io/badge/Netflix-Clone-red?style=for-the-badge&logo=netflix)
 ![Responsive](https://img.shields.io/badge/Responsive-Design-brightgreen?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -11,7 +11,6 @@
 
 [**View Live Demo**](https://netflix-clone-liard-chi.vercel.app) | [**Repository**](https://github.com/Zohaib-Karamat/Netflix-Clone.git)
 
-## 📸 Screenshots
 
 ## ✨ Features
 
@@ -61,6 +60,7 @@ open index.html   # macOS
 ```bash
 # If you have VS Code with Live Server extension
 # Right-click on index.html and select "Open with Live Server"
+
 
 ## 📁 Project Structure
 
@@ -167,15 +167,11 @@ We welcome contributions! Here's how you can help:
 - 🎨 Additional animations and micro-interactions
 - 📱 PWA implementation
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/Zohaib-Karamat)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/zohaibkaramat)
+- GitHub: [Zohaib-Karamat](https://github.com/Zohaib-Karamat)
+- LinkedIn: [Zohaib Karamat](https://linkedin.com/in/zohaibkaramat)
 
 ## 🙏 Acknowledgments
 
